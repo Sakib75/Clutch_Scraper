@@ -1,0 +1,13 @@
+setup.py
+clutch/__init__.py
+clutch/items.py
+clutch/middlewares.py
+clutch/pipelines.py
+clutch/settings.py
+clutch/spiders/__init__.py
+clutch/spiders/companies.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
